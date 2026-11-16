@@ -6,13 +6,13 @@ title: Selected Works
 ## Selected Works
 
 #### **Phase-Coherent Onset Detection for Overdubbed Folk Ensembles**
-Wen Ruan†, <ins>Mirela Saric</ins>†, Dario Mbeki, Fumiko Arai \\
+Wen Ruan†, <ins>Mirela Saric</ins>†, Dario Mbeki, Fumiko Arai \
 *Transactions on Sound and Music Computing (TSMC), 2025* · [Paper](https://doi.org/10.5555/tsmc.2025.0142) | [Code](https://github.com/msaric-lab/phase-onset)
 - Reduced onset-picking error by 27% on 940 overdubbed recordings from three regional archives.
 - Shipped a reference implementation and a six-hour annotated evaluation set.
 
 #### **Archival Reverb Signatures as a Fingerprint for Venue Provenance**
-Sunniva Lunde†, <ins>Mirela Saric</ins>†, Hipolito Navarre, Yusuf Adeyemi \\
+Sunniva Lunde†, <ins>Mirela Saric</ins>†, Hipolito Navarre, Yusuf Adeyemi \
 *Journal on Computing and Cultural Heritage (JOCCH), 2024* · [Paper](https://doi.org/10.5555/jocch.2024.0211) | [Dataset](https://example.org/datasets/reverb-provenance)
 - Matched 86% of recordings to their recording venue using reverb-tail signatures alone.
 - Released a provenance dataset covering 15 venues and 2,200 archival takes.
